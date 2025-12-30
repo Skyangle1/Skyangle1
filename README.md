@@ -68,6 +68,4 @@ Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Tra
 
 <p align="center">
   <a href="https://fedoraweb.site"><img src="https://img.shields.io/badge/FedoraWeb-Agency-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/EchoVerse-Music-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://t.me/username_tele_lu"><img src="https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
