@@ -1,71 +1,44 @@
 <div align="center">
-  <img src="assets/card.gif" width="100%" alt="Cinematic Banner" />
-</div>
+  <img src="assets/card.gif" width="100%" />
 
-<h1 align="center">Welcome to Skyangle1's Command Center</h1>
-<p align="center">Does... Whatever a spider can.</p>
+  <h1>⚡ Nix | Skyangle1</h1>
+  <p><i>"Navigating the charts, Master of the Shell."</i></p>
 
-<p align="center">
-  <a href="https://github.com/Skyangle1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ICT%20Trader-FFD700?style=for-the-badge&logo=tradingview&logoColor=black" alt="ICT Trader"/>
-  </a>
-</p>
-
----
-
-### 👤 About me
-
-<img align="right" src="https://raw.githubusercontent.com/platane/platane/master/public/img/coding.gif" alt="Coding Gif" width="250" />
-
-Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Trader**. I enjoy crafting the web with code and navigating the financial markets with precision.
-
-- 🔭 I’m currently working on mastering **HTML, CSS, and JavaScript**.
-- 🌱 I’m currently learning about **Market Structure & Liquidity** in XAUUSD & BTCUSD.
-- 🐧 I use **Arch Linux** with **Hyprland** for an efficient and aesthetic workflow.
-
-<br clear="right"/>
-
----
-
-### ⚙️ Technologies & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-33CCFF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" />
+  <p>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hyprland-00CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pine_Script-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-### 📈 Statistics & Trophies
+### 👤 About Me
+- 💻 **Dev**: Learning **HTML, CSS, JS, and Python**.
+- 💹 **Trader**: Applying **ICT Methodology** on XAUUSD & BTCUSD.
+- 🚀 **Goal**: Relocating to **Bandung** (June/July 2026).
+- 🏢 **Agency**: Founder of **[FedoraWeb](https://fedoraweb.site)**.
+
+---
+
+### 🛠️ My Latest Activity (Updated Automatically)
+*Menunggu robot mengecek aktivitas koding lu...*
+---
+
+### 📊 Coding Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skyangle1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyangle1&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=dark&hide_border=true" alt="Skyangle1 Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skyangle1&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Skyangle1/count.svg" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skyangle1&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-<div align="center">
-
   <i>"Trading the liquidity, coding the logic."</i>
-  
 </div>
-
-<p align="center">
-  <a href="https://fedoraweb.site"><img src="https://img.shields.io/badge/FedoraWeb-Agency-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
