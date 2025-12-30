@@ -19,7 +19,6 @@
     <td width="50%" valign="top">
       **💻 Technical Stack**
       - 🛠 **OS**: Arch Linux (Hyprland WM)
-      - 🐍 **Language**: Python, Pine Script
       - 🌐 **Web**: HTML5, CSS3, JavaScript
       - 🐚 **Shell**: Zsh / Bash
     </td>
@@ -27,8 +26,6 @@
       **💹 Trading & Goals**
       - 📈 **Strategy**: ICT (Market Structure)
       - 🪙 **Pairs**: XAUUSD & BTCUSD
-      - 📍 **Status**: Bangka ✈️ Bandung '26
-      - 🛰 **Business**: Starlink WiFi Provider
     </td>
   </tr>
 </table>
@@ -43,10 +40,10 @@
 ---
 
 ### 🛠️ Recent Activity (Automated)
-*Robot sedang memantau kodingan lu di Arch Linux...*
+*Robot sedang memantau kodingan di Arch Linux...*
 ---
 
-### 🛠️ Professional Tech Stack
+### 🛠️ 
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-00CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
