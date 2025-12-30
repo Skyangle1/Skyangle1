@@ -1,7 +1,7 @@
 # ⚡ Welcome to Skyange1 Command Center
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/gifs/cyberpunk.gif" width="100%" />
+  <img src="55d1fae62d711bf00278e6efd5223b9d.jpg" width="100%" />
 </div>
 
 ---
