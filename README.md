@@ -47,19 +47,17 @@ Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Tra
 
 ---
 
-### 📈 Statistics
+### 📈 Statistics & Trophies
 
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Skyangle1&show_icons=true&theme=dark&hide_border=true&cache_seconds=1" alt="Skyangle1 Stats" />
-      </td>
-      <td valign="top" width="50%">
+      <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=dark&hide_border=true" alt="Skyangle1 Streak" />
       </td>
     </tr>
   </table>
+
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skyangle1&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
