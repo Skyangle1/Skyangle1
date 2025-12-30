@@ -7,7 +7,6 @@
 
   <p align="center">
     <a href="https://fedoraweb.site"><img src="https://img.shields.io/badge/FedoraWeb-Agency-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-    <a href="https://github.com/Skyangle1"><img src="https://img.shields.io/badge/EchoVerse-Creative-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   </p>
 </div>
 
