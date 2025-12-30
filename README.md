@@ -40,21 +40,25 @@
 ---
 
 ### 🛠️ Recent Activity (Automated)
-*Robot sedang memantau kodingan di Arch Linux...*
+*Robot sedang memantau kodingan Arch Linux...*
 ---
 
-### 🛠️ 
+### 📚 My Learning Journey
 <p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-00CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Learning-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Environment-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Hyprland-00CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trading-ICT_Method-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
 </p>
 
 ---
 
-### 💹 Trading Analytics
+### 💹 Trading Progress
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=tokyonight&hide_border=true" width="100%" />
 </div>
@@ -68,7 +72,7 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Skyangle1/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Skyangle1&label=PROFILE+VIEWS&color=00ccff&style=flat-square" alt="Skyangle1 Visitor Counter" alt="Visitor Counter" />
   <br/>
   <b>"Trading the liquidity, coding the logic."</b>
 </div>
