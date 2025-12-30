@@ -56,13 +56,13 @@
 
 ---
 
-### 💹 Trading Progress
+### 💹 Progress
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 ---
 
-### 🎨 Weekly Focus
+### 🎨 Focus
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skyangle1&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
 </div>
