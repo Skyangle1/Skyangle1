@@ -46,17 +46,21 @@
 *Robot sedang memantau kodingan lu di Arch Linux...*
 ---
 
-### 📊 Coding Metrics
+### 🛠️ Professional Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-00CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
+</p>
+
+---
+
+### 💹 Trading Analytics
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Skyangle1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyangle1&layout=compact&theme=tokyonight&hide_border=true" /></td>
-    </tr>
-  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=tokyonight&hide_border=true" width="100%" />
 </div>
-
 ---
 
 ### 🎨 Weekly Focus
