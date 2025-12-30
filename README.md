@@ -49,8 +49,6 @@ Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Tra
 
 ### 📈 Statistics
 
-### 📈 Statistics
-
 <div align="center">
   <table>
     <tr>
