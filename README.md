@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/3M5sT5R.png" width="100%" alt="Cinematic Banner" />
+  <img src="55d1fae62d711bf00278e6efd5223b9d.jpg" width="100%" alt="Cinematic Banner" />
 </div>
 
 <h1 align="center">Welcome to Skyangle1's Command Center</h1>
@@ -49,22 +49,23 @@ Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Tra
 
 ### 📈 Statistics
 
+### 📈 Statistics
+
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Skyangle1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Skyangle1's Stats" />
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Skyangle1&show_icons=true&theme=dark&hide_border=true&cache_seconds=1" alt="Skyangle1 Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=dark&hide_border=true" alt="Skyangle1's Streak" />
+      <td valign="top" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=dark&hide_border=true" alt="Skyangle1 Streak" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Skyangle1&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skyangle1&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
----
-<div align="center">
   <i>"Trading the liquidity, coding the logic."</i>
+  
 </div>
