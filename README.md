@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="From KlickPin CF Pin on Ghim của bạn.mp4" width="100%" alt="Cinematic Banner" />
+  <img src="assets/card.gif" width="100%" alt="Cinematic Banner" />
 </div>
 
 <h1 align="center">Welcome to Skyangle1's Command Center</h1>
