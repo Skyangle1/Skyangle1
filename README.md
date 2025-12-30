@@ -61,7 +61,7 @@ Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Tra
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skyangle1&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
-<div allgin="center">
+<div align="center">
 
   <i>"Trading the liquidity, coding the logic."</i>
   
