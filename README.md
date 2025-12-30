@@ -28,7 +28,6 @@ Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Tra
 - 🔭 I’m currently working on mastering **HTML, CSS, and JavaScript**.
 - 🌱 I’m currently learning about **Market Structure & Liquidity** in XAUUSD & BTCUSD.
 - 🐧 I use **Arch Linux** with **Hyprland** for an efficient and aesthetic workflow.
-- 🚀 **Mission**: Preparing for a new chapter in **Bandung, 2026**.
 
 <br clear="right"/>
 
@@ -66,3 +65,9 @@ Hello there! I'm **Skyangle1**, a passionate **Junior Programmer** and **ICT Tra
   <i>"Trading the liquidity, coding the logic."</i>
   
 </div>
+
+<p align="center">
+  <a href="https://fedoraweb.site"><img src="https://img.shields.io/badge/FedoraWeb-Agency-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/EchoVerse-Music-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/username_tele_lu"><img src="https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
