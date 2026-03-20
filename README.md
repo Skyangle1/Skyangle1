@@ -56,6 +56,20 @@
 
 ---
 
+<div align="center">
+  <img src="https://stats.tigers.my.id/api/stats?username=Skyangle1&v=20260320-3" width="100%" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://stats.tigers.my.id/api/langs?username=Skyangle1&v=20260320-2" width="100%" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://stats.tigers.my.id/api/progress?username=Skyangle1&v=20260320-2" width="100%" alt="Contribution Momentum" />
+</div>
+
+---
+
 ### 💹 Progress
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyangle1&theme=tokyonight&hide_border=true" width="100%" />
