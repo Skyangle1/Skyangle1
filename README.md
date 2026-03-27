@@ -40,20 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nix's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&color=00FFCC&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</div>
-
----
-
 <div align="center">
   <img src="https://stats.tigers.my.id/api/stats?username=Skyangle1&v=20260320-3" width="100%" alt="GitHub Stats" />
 </div>
